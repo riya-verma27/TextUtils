@@ -15,7 +15,7 @@ Additionally, the app supports both light and dark themes, which can be toggled 
 ## Technical Aspects
 
 ### 1. Component-Based Architecture
-The application is organized into distinct, reusable components (`Navbar`, `TextForm`, `About`, `Alert`). This modular structure allows for easier maintenance and scalability.
+The application is organized into distinct, reusable function based components (`Navbar`, `TextForm`, `About`, `Alert`). This modular structure allows for easier maintenance and scalability.
 
 ### 2. State Management
 **useState Hook**:
